@@ -1,0 +1,11 @@
+D:\Inacap\2 año\Taller de progra III\WPF\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe.config
+D:\Inacap\2 año\Taller de progra III\WPF\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe
+D:\Inacap\2 año\Taller de progra III\WPF\Buscaminas\Buscaminas\bin\Debug\Buscaminas.pdb
+D:\Inacap\2 año\Taller de progra III\WPF\Buscaminas\Buscaminas\obj\Debug\Buscaminas.csprojResolveAssemblyReference.cache
+D:\Inacap\2 año\Taller de progra III\WPF\Buscaminas\Buscaminas\obj\Debug\Buscaminas.Form1.resources
+D:\Inacap\2 año\Taller de progra III\WPF\Buscaminas\Buscaminas\obj\Debug\Buscaminas.Properties.Resources.resources
+D:\Inacap\2 año\Taller de progra III\WPF\Buscaminas\Buscaminas\obj\Debug\Buscaminas.csproj.GenerateResource.Cache
+D:\Inacap\2 año\Taller de progra III\WPF\Buscaminas\Buscaminas\obj\Debug\Buscaminas.exe
+D:\Inacap\2 año\Taller de progra III\WPF\Buscaminas\Buscaminas\obj\Debug\Buscaminas.pdb
+D:\Inacap\2 año\Taller de progra III\WPF\Buscaminas\Buscaminas\obj\Debug\Buscaminas.Form2.resources
+D:\Inacap\2 año\Taller de progra III\WPF\Buscaminas\Buscaminas\obj\Debug\Buscaminas.Form3.resources
